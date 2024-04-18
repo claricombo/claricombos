@@ -4,11 +4,10 @@ My name is Claricombos!
 
 I'm currently learning Python, HTML and Virtualisation.
 You can get in contact at my website [Thoughtless Tab](thoughtlesstab.000webhostapp.com) or by making an issue in this repo.
-
 Fun fact: I ❤️ music.
 
 
-Thanks for reading
+Thanks for reading!
 
 <!--
 **claricombos/claricombos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
