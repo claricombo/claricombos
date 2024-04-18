@@ -3,7 +3,7 @@
 My name is Claricombos!
 
 I'm currently learning Python, HTML and Virtualisation.
-You can get in contact at my website [Thoughtless Tab](https://thoughtlesstab.000webhostapp.com) or by making an issue in this repo.
+You can get in contact, you can go to either of my websites, [Thoughtless Tab](https://thoughtlesstab.000webhostapp.com) or [Thoughtful Tab](https://thoughtfultab.000webhostapp.com) (Thoughtful redirects to Thoughtless) or by making an issue in this repo.
 Fun fact: I ❤️ music.
 
 
