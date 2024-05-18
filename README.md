@@ -3,7 +3,7 @@
 My name is Claricombos!
 
 I'm currently learning Python, HTML and Virtualisation.
-You can get in contact, you can go to either of my websites, [claricombos.rf.gd](claricmbos.rf.gd)or by making an issue in this repo.
+You can get in contact, you can go to either of my websites, [claricombos.rf.gd](claricmbos.rf.gd) or by making an issue in this repo.
 Fun fact: I ❤️ music.
 
 
