@@ -2,7 +2,7 @@
 
 My name is Claricombos!
 
-I'm currently learning HTML, Linux Virtualisation.
+I'm currently learning HTML and Bash/Linux.
 
 I have experience and skills in the above, as well as Virtualisation and Containerization, Python and some other Sys Admin stuff.
 
