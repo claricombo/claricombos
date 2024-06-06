@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Claricombos!
+My name is Claricombo!
 
 I'm currently learning HTML and Shell/Bash.
 
