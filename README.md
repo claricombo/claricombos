@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Claricombo!
+My name is Claricombos!
 
-I'm currently learning HTML and Shell/Bash.
+I'm currently learning HTML and Shell.
 
 I have experience and skills in the above, as well as Virtualisation and Containerization, Python and some other Sys Admin stuff.
 
