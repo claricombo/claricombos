@@ -6,7 +6,7 @@ I'm currently learning HTML and Shell/Bash.
 
 I have experience and skills in the above, as well as Virtualisation and Containerization, Python and some other Sys Admin stuff.
 
-To get in contact, you can either go to my [website](claricombos.rf.gd) or make an issue in this repo.
+To get in contact, you can either go to my [website](https://claricombos.rf.gd) or make an issue in this repo.
 
 Fun fact: I ❤️ music.
 
